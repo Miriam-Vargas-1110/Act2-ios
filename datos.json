@@ -2,39 +2,45 @@
   "products": [
     {
       "id": 1,
-      "title": "Camiseta Oversize Negra",
-      "description": "Camiseta de algodón suave en corte oversize. Ideal para un estilo urbano y cómodo.",
-      "price": 15.99
+      "imagen":"https://raw.githubusercontent.com/Miriam-Vargas-1110/imagenes-MVC/refs/heads/main/sakura5.jpg",
+      "title": "Sudadera de rombos rosa",
+      "description": "Sudadera de algodón, Ideal para un estilo unico y cómodo.",
+      "price": 120.00
     },
     {
       "id": 2,
-      "title": "Pantalón Cargo Verde Militar",
-      "description": "Pantalón estilo cargo con múltiples bolsillos y ajuste en los tobillos.",
-      "price": 34.99
+      "imagen":"https://raw.githubusercontent.com/Miriam-Vargas-1110/imagenes-MVC/refs/heads/main/sakura4.jpg",
+      "title": "Sudadera con estampado",
+      "description": "Sudadera rosa con estampado de dibujos.",
+      "price": 150.00
     },
     {
       "id": 3,
-      "title": "Sudadera Unisex Beige",
-      "description": "Sudadera con capucha y bolsillo frontal, perfecta para el invierno.",
-      "price": 29.99
+      "imagen":"https://raw.githubusercontent.com/Miriam-Vargas-1110/imagenes-MVC/refs/heads/main/sakura2.jpg",
+      "title": "Falda rosa",
+      "description": "Falda rosa perfecta para el verano.",
+      "price": 99.99
     },
     {
       "id": 4,
-      "title": "Chaqueta Denim Clásica",
-      "description": "Chaqueta vaquera de corte recto con botones metálicos y dos bolsillos frontales.",
-      "price": 49.99
+      "imagen":"https://raw.githubusercontent.com/Miriam-Vargas-1110/imagenes-MVC/refs/heads/main/Sakura1.jpg",
+      "title": "Sueter rosa con moño",
+      "description": "Sueter rosa con decoracion unica.",
+      "price": 120.00
     },
     {
       "id": 5,
-      "title": "Vestido Casual Floral",
-      "description": "Vestido ligero de flores con tirantes finos y corte en A.",
-      "price": 39.50
+      "imagen":"https://raw.githubusercontent.com/Miriam-Vargas-1110/imagenes-MVC/refs/heads/main/falda.jpg",
+      "title": "Falda cafe ",
+      "description": "Falda ligera de color cafe con dibujo.",
+      "price": 139.99
     },
     {
       "id": 6,
-      "title": "Zapatillas Urbanas Blancas",
-      "description": "Zapatillas de diseño moderno con suela de goma antideslizante.",
-      "price": 59.00
+      "imagen":"https://raw.githubusercontent.com/Miriam-Vargas-1110/imagenes-MVC/refs/heads/main/blusa.jpg",
+      "title": "Blusa rosa",
+      "description": "Blusa rosa con estilo de sueter.",
+      "price": 89.99
     }
   ]
 }
