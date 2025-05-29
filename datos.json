@@ -4,14 +4,14 @@
       "id": 1,
       "imagen":"https://raw.githubusercontent.com/Miriam-Vargas-1110/imagenes-MVC/refs/heads/main/sakura5.jpg",
       "title": "Sudadera de rombos rosa",
-      "description": "Sudadera de algodón, Ideal para un estilo unico y cómodo.",
+      "description": "Sudadera de algodón de rombos",
       "price": 120.00
     },
     {
       "id": 2,
       "imagen":"https://raw.githubusercontent.com/Miriam-Vargas-1110/imagenes-MVC/refs/heads/main/sakura4.jpg",
       "title": "Sudadera con estampado",
-      "description": "Sudadera rosa con estampado de dibujos.",
+      "description": "Sudadera con estampado de dibujos.",
       "price": 150.00
     },
     {
